@@ -1,0 +1,21 @@
+{
+    "openrpcDocument": "openrpc.json",
+    "outDir": "generated",
+    "components": [
+        {
+            "type": "client",
+            "name": "did-login-server-client",
+            "language": "typescript"
+        },
+        {
+            "type": "server",
+            "name": "did-login-server-node",
+            "language": "typescript"
+        },
+        {
+            "type": "docs",
+            "name": "did-login-server",
+            "language": "gatsby"
+        }
+    ]
+}
