@@ -32,7 +32,7 @@
     "did-uri": "^0.4.1",
     "ethereum-public-key-to-address": "0.0.4",
     "ethereumjs-util": "^7.0.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "uuid": "^8.3.0"
   },
   "devDependencies": {
